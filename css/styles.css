@@ -1,4 +1,4 @@
-/*Colocamos una imagen de fondo al 'body' de nuestras páginas*/
+/*Colocamos una imagen de fondo al 'body' de nuestras pÃ¡ginas*/
 
 body {
 
@@ -7,7 +7,7 @@ body {
      
 }
 
-/*Creamos la clase 'center' de forma que podamos centrar, por ejemplo, las tablas de nuestras páginas*/
+/*Creamos la clase 'center' de forma que podamos centrar, por ejemplo, las tablas de nuestras pÃ¡ginas*/
 
 .center{
 
@@ -16,7 +16,7 @@ body {
 }
 
 
-/*Le damos formato a los encabezados H*, párrafos y viñetas */
+/*Le damos formato a los encabezados H*, pÃ¡rrafos y viÃ±etas */
 h1 {
   font-weight: bold;
   text-align: center;  
@@ -47,7 +47,7 @@ p, ul {
 figcaption {text-align: center;}
 
 
-/*Le damos formato a las imágenes*/
+/*Le damos formato a las imÃ¡genes*/
 img {
   
   display: block;
